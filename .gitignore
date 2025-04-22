@@ -1,2 +1,4 @@
 *.pyc
 desktop.ini
+*.code-workspace
+CLAUDE.md
