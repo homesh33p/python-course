@@ -1,0 +1,52 @@
+Write a Python script to concatenate following dictionaries to create a new one.
+Sample Dictionary :
+dic1={1:10, 2:20}
+dic2={3:30, 4:40}
+dic3={5:50,6:60}
+
+list all the keys in a dictionary
+
+check whether a given key already exists in a dictionary, print True if it exists
+
+remove a key from a dictionary
+
+convert a dictionary to a list in one command:
+dict1 = {1:"one",2:"two",3:"three"}
+Expected output: [(1, 'one'), (2, 'two'), (3, 'three')]
+
+Convert the result of the above back to a dictionary
+
+update "giddu" key's value to "daltonganj"
+add a new key vlaue pair inside the inner dictionary: "utso" and set the value to NoneType
+{'list1': [1, 2, 3], 'dict3': {'list2': ['This', {'Giddu': 'bangalore', 'mishra': 'ranchi', 'kaushal': 'raipur'}, 'is', 'a', 'nested', 'dictionary']}}
+
+convert to dictionary using keys from the second dict and values from the first
+listOfStr = ["hello", "at" , "test" , "this" , "here" , "now" ]
+listOfInt = [56, 23, 43, 97, 43, 102]
+
+convert the list of tuples to dictionary
+listofTuples = [("Riti" , 11), ("Aadi" , 12), ("Sam" , 13),("John" , 22),("Lucy" , 90)]
+
+Bonus Question: Read up on what is adefault dict. Can you create one? How is it different from normal dictionary?
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+tuplex = (4, 6, 2, 8, 3, 1)
+Append an item 9 to the above tuple
+create a new tuple (4, 6, 2, 8, 3, 15, 20, 25, 4, 6, 2, 8, 3) from above and assign it to the same variable all in one line of code
+
+Convert to string:
+tup = ('e', 'x', 'e', 'r', 'c', 'i', 's', 'e', 's')
+expected: "exercises"
+
+check whether an element exists within a tuple
+
+Tuples cannot be chaged directly: An indirect method is given below(check if the id of the new tuple has changed?):
+Convert to list, remove element "s", , reconvert back to tuple and assign to the same variable:
+tuplex = "w", 3, "r", "s", "o", "u", "r", "c", "e"
+
+Covert from one to the other: (Hint: Check the boolean value of every element)
+Input: [(), (), ('',), ('a', 'b'), ('a', 'b', 'c'), ('d')]
+Expected: [('',), ('a', 'b'), ('a', 'b', 'c'), 'd']

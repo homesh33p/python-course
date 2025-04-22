@@ -1,0 +1,29 @@
+Calculate income tax for the given income by adhering to the below rules
+Taxable Income 	Rate (%)
+First $10,000 	0
+Next $10,000 	10
+The remaining 	20
+
+Say Hello to user, Expected: ‘Hello John’, “Hello Mary” etc…
+
+Convert float to highest integer closest to it.
+
+Take two strings, invert one of them and concatenate both. Then print it.
+
+Check if a string is palindrome/check if a number is palindrome.
+
+Slice a list to 4th position from the end. eg: "abcdefghijk" --> "hijk"
+
+Given a two list of numbers create a new list such that new list should contain only odd numbers from the first list and even numbers from the second list
+
+Check if a list is empty, without using the bool function. Hint: Check if the length of the list is zero.
+
+Split a string into an array. Then recombine it into a string.
+
+Find the starting postition of a given character in a string. Can you also find the occurence from the end of the string, rather than the beggining?
+
+Find the starting position of a given substring in a string.
+
+Remove the occurence of a given character from a string.
+
+Insert a word at a given position in a string.

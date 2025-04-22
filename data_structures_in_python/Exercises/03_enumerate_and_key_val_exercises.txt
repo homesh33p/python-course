@@ -1,0 +1,34 @@
+First create a dictionary where the keys are numbers between 1 and n(user input), and set values to null
+Then fill the dictionary with the square of the numbers as the values of respective keys
+
+Write a Python program to sort a simple non nested dictionary by key. The keys are numbers.
+
+Write a script to check if two non nested simple dictionaries are equal. (every key and value should be equal)
+
+Write a script to find the difference between two lists ie: new list which contains items which are not in either of the lists
+
+Sort a list not by any inbuilt function, but by a script. Then print the location of the sorted values:
+eg: [1,5,3,9,0]
+result: [4,0,2,1,3]
+
+find the address of a given value in the following dictionary: (Hint : use nested if else statements, and the script will be long :) )
+{
+	"animals":{
+		"mammals":{
+			"carnivorous":"Tiger",
+			"noncarni":"Cow",
+			"omnivorous":"Human
+		},
+		"birds":{
+			"carnivorous":"Eagle",
+			"noncarni":"Parrot"
+		}
+	}
+}
+
+User input: parrot
+result: animals.birds.noncarni
+
+
+
+
